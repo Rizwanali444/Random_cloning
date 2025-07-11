@@ -46,15 +46,7 @@ Yeh tool sirf **educational purposes** ke liye banaya gaya hai. Kisi bhi illegal
 
 ---
 
-## 📸 Screenshot (Optional)
 
-_Agar aapke paas koi screenshot ya terminal output hai, yahan upload karke GitHub par embed kar sakte hain._
-
-```md
-![screenshot](screenshot.png)
-```
-
----
 
 ## 📌 License
 
