@@ -39,7 +39,7 @@ Yeh tool sirf **educational purposes** ke liye banaya gaya hai. Kisi bhi illegal
 
 ## 🙋 Author Info
 
-- 👤 **Name**: Rizwan Ali  
+- 👤 **Name**: Rizwan Ali & Isaan Turak
 - 🌐 **GitHub**: [Rizwanali444](https://github.com/Rizwanali444)
 - 📱 **Termux Tools Developer**  
 - 🧰 Coding Expert | Automation Scripts Creator
